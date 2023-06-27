@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Goran! 👋
 
-<!--
-**G-o-r-a-n/G-o-r-a-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced Operations Manager, now exploring the world of data science. I have a passion for leveraging data-driven strategies to optimize business operations and growth.
 
-Here are some ideas to get you started:
+## 🎯 I'm currently focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Applying my data science skills to real-world problems.
+- Contributing to open-source projects.
+- Continuously learning and improving my coding skills.
+
+## 💼 Professional Experience:
+
+I have over a decade of strategic operations management experience across various industries. I recently graduated in the top 1% of a Data Science Bootcamp, gaining practical experience with Python and data science libraries.
+
+## 🛠 Tech Stack:
+
+- Python
+- SciKit-Learn
+- Pandas
+- NumPy
+- HTML
+- CSS
+
+## 📚 What I'm learning:
+
+I'm currently learning more about machine learning, artificial intelligence, and advanced data analysis techniques.
+
+## 💬 Let's Connect:
+
+- LinkedIn: https://www.linkedin.com/in/goran-hourami/
