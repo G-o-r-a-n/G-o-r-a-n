@@ -10,7 +10,7 @@ I'm an experienced Operations Manager, now exploring the world of data science. 
 
 ## 💼 Professional Experience:
 
-I have over a decade of strategic operations management experience across various industries. I recently graduated in the top 1% of a Data Science Bootcamp, gaining practical experience with Python and data science libraries.
+I have over a decade of strategic operations management experience across various industries. I recently graduated in the top 0.5% of a Data Science Bootcamp, gaining practical experience with Python and data science libraries.
 
 ## 🛠 Tech Stack:
 
